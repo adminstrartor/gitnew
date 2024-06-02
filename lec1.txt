@@ -1,0 +1,148 @@
+lecture1
+
+
+if 5 > 2:
+    print("This statement is true 1")
+
+*****************************************************************
+
+"""
+print("this is our 2nd class 1
+    # today we will learn python
+     sdjsjdhs") """
+
+
+******************************************************************
+
+#  This is a comment written in
+#  more than just one line
+
+# ?? -Question mark
+ctrl+?
+
+*************************************************************************************
+
+Python Collections(Array)
+LIST
+TUPLE
+SET
+DICTIONARY
+
+## LIST
+List is a collection which is ordered and changeable. it allows duplicates
+
+1,2,3,4,5,6,7,1,2
+[]
+
+**********************************
+
+one = [100,20,3,'Mohit',5,6,7]
+print(one)
+
+**************************************
+
+lst =['ashwini','mohit','sanjay','100','101e','f']
+print(lst)
+
+op__['ashwini', 'mohit', 'sanjay', '100', '101e', 'f']
+
+*****************************************
+
+print(len(lst))
+
+op---6
+
+
+*******************************
+
+print(type(one))
+
+op----<class 'list'>
+
+************************
+lst1 = lst + one
+print(lst1)
+lst2 = one + lst
+print(lst2)
+
+output_____
+
+['ashwini', 'mohit', 'sanjay', '100', '101e', 'f', 100, 20, 3, 'Mohit', 5, 6, 7]
+[100, 20, 3, 'Mohit', 5, 6, 7, 'ashwini', 'mohit', 'sanjay', '100', '101e', 'f']
+
+
+
+***********************************
+
+
+opt2 = list(('ashwini','mohit','sanjay'))
+print(opt2)
+print(type(opt2))
+
+output-['ashwini', 'mohit', 'sanjay']
+<class 'list'>
+
+
+['ashwini', 'mohit', 'sanjay']
+<class 'list'>
+
+
+**********************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
